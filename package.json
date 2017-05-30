@@ -1,0 +1,21 @@
+{
+  "name": "hots-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "install-heroprotocol": "git clone https://github.com/Blizzard/heroprotocol.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Utilityman/hots-tracker.git"
+  },
+  "author": "Josh Mackin",
+  "bugs": {
+    "url": "https://github.com/Utilityman/hots-tracker/issues"
+  },
+  "homepage": "https://github.com/Utilityman/hots-tracker#readme",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
