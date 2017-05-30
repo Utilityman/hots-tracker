@@ -2,8 +2,10 @@
   "name": "hots-tracker",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "server/app.js",
   "scripts": {
+    "start": "node server/app.js",
+    "start-bot": "node hotsbot/app.js",
     "install-heroprotocol": "git clone https://github.com/Blizzard/heroprotocol.git"
   },
   "repository": {

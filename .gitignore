@@ -1,2 +1,4 @@
 heroprotocol/
 node_modules/
+config.json
+tmp.StormReplay
